@@ -1,4 +1,4 @@
-# HeadlineHub
+# HeadlineHub App
 
 HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines. Users can customize their news feed based on their interests and preferences, receive real-time notifications for breaking news, save articles for offline reading, and more.
 
@@ -11,7 +11,7 @@ HeadlineHub is a Flutter-based mobile application that delivers personalized new
 
 ## Licensing
 
-[PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license by a **ONE TIME PAYMENT** through this project [sponsor page](https://github.com/sponsors/headlinehub).
+HeadlineHub app come with a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license by a **ONE TIME PAYMENT** through this project [sponsors page](https://github.com/sponsors/headlinehub).
 
 ### PolyForm-Free-Trial License in a nutshell
 
