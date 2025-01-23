@@ -19,7 +19,16 @@ This code is for evaluation only, feel free using it for 32 days, after that any
 
 ### PolyForm-Perimeter License in a nutshell
 
-it allow one developper to Edit/build/publish whatever he want as many times as he want
-as long as you dont compete by providing this source code itself for free or for money. 
+It allows one developer to Edit/build/publish whatever he want as many times as he want
+**as long as** he do not compete by providing this source code itself for free or for money. 
 
+### Do you need another license for the headlineHub api and dashboard?.
 
+NO, the same license cover the:
+- [headlineHub app](https://github.com/headlinehub/app), 
+- [headlineHub api](https://github.com/headlinehub/api), 
+- [headlineHub dashboard](https://github.com/headlinehub/dashboard),
+
+### Do you have another question?
+
+create an [issue](https://github.com/headlinehub/app/issues).
