@@ -11,10 +11,10 @@ HeadlineHub is a Flutter-based mobile application that delivers personalized new
 
 ## Licensing
 
-The HeadlineHub app includes a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license.
+The HeadlineHub app includes a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license with a [one-time payment](https://github.com/sponsors/headlinehub).
 
 ### PolyForm-Free-Trial License Summary
-This evaluation license grants **32 days** of use and modification to assess the code's functionality. Continued use beyond the evaluation period requires the purchase of a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license.
+This evaluation license grants **32 days** of use and modification to assess the code's functionality. Continued use beyond the evaluation period requires the [purchase](https://github.com/sponsors/headlinehub) of a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license.
 
 ### PolyForm-Perimeter License Summary
 This license permits **unlimited** use, modification, and distribution, provided that the source code itself is not distributed, whether for a fee or at no cost.
