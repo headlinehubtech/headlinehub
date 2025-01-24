@@ -26,4 +26,4 @@ No, a single license covers all three of them.
 
 ### Do you have another question?
 
-Open an [issue](https://github.com/headlinehub/app/issues).
+Feel free to ask [here](https://github.com/headlinehub/app/issues) and our team will be happy to help.
