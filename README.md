@@ -2,10 +2,10 @@
 
 HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines. Users can customize their news feed based on their interests and preferences, and receive real-time notifications.
 
-## Current Status
+## ℹ️ Current Status
 HeadlineHub is currently under active development. The features listed below are planned and may not all be implemented in the current version.
 
-## Features (Planned)
+## 🚀 Features (Planned)
 
 #### 📰 Personalized News Feeds: 
 * Allow users to customize their feeds based on interests (e.g., technology, sports, politics).
@@ -33,7 +33,7 @@ HeadlineHub is currently under active development. The features listed below are
 #### ♿ Accessibility Features:
 * Implement features to improve accessibility for users with disabilities (e.g., screen reader compatibility).
 
-## Architecture
+## 🏗️ Architecture
 
 HeadlineHub employs a layered architecture to enhance code maintainability, testability, and scalability:
 
@@ -41,32 +41,32 @@ HeadlineHub employs a layered architecture to enhance code maintainability, test
 * **Domain Layer**: Contains business logic and data models.
 * **Data Layer**: Handles data fetching, caching, and persistence.
 
-## App Quality and Best Practices
+## 👌 App Quality and Best Practices
 
-#### Clean Code: 
+#### 🧹 Clean Code: 
 * Adherence to clean code principles (e.g., SOLID principles, proper naming conventions, meaningful comments) for maintainability and readability.
 
-#### Testing:
+#### 🚧 Testing:
 * **Unit Tests**: Thoroughly test individual units of code (e.g., functions, classes).
 * **Widget Tests**: Test the behavior and rendering of individual widgets.
 * **Integration Tests**: Test the interaction between different parts of the application.
 
-#### State Management:
+#### 🎯 State Management:
 * Utilize a suitable state management solution (BLoC) for effective and predictable data flow.
 
-#### Performance Optimization: 
+#### ⚡ Performance Optimization: 
 * **Efficient Data Fetching**: Optimize data fetching to minimize network requests and improve loading times.
 * **Image Loading**: Optimize image loading and caching for smooth scrolling and reduced memory usage.
 * **Profiling and Optimization**: Regularly profile the app to identify and address performance bottlenecks.
 
-#### UI/UX Design: 
+#### 📱 UI/UX Design: 
 * **User-Centered Design**: Prioritize user experience with a focus on intuitive navigation, clear visual hierarchy, and accessibility.
 * **Material Design Guidelines**: Adhere to Material Design guidelines for a consistent and polished user interface.
 
-## Disclaimer
+## ⚠️ Disclaimer
 This app is currently under development and may contain bugs or have limited functionality.
 
-## Licensing
+## 🤝 Licensing
 
 The HeadlineHub app includes a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license with a [one-time payment](https://github.com/sponsors/headlinehub).
 
