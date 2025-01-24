@@ -23,10 +23,7 @@ This license allows one developer to Use, Change, and Distribute as many times a
 
 ### Do you need to buy 3 licenses for the HeadlineHub App, API, and Dashboard?
 
-No, 1 license covers the:
-- [HeadlineHub app](https://github.com/headlinehub/app)
-- [HeadlineHub API](https://github.com/headlinehub/api)
-- [HeadlineHub dashboard](https://github.com/headlinehub/dashboard)
+No, 1 license covers them all.
 
 ### Do you have another question?
 
