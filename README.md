@@ -63,6 +63,13 @@ HeadlineHub employs a layered architecture to enhance code maintainability, test
 * **User-Centered Design**: Prioritize user experience with a focus on intuitive navigation, clear visual hierarchy, and accessibility.
 * **Material Design Guidelines**: Adhere to Material Design guidelines for a consistent and polished user interface.
 
+## 🛠️ Technologies:
+
+* **💙 Flutter:** The framework used for building the user interface.
+* **🎯 Dart:** The programming language used for Flutter development.
+* **🐘 PostgreSQL:** The chosen database system. 
+* **🐸 Dart Frog:** The backend framework used for API development.
+  
 ## ⚠️ Disclaimer
 This app is currently under development and may contain bugs or have limited functionality.
 
