@@ -1,13 +1,12 @@
 # 📰 HeadlineHub - Developer Documentation 📰
 
-**🌍 HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines**
-
 HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines. Users can customize their news feed based on their interests and preferences, receive real-time notifications for breaking news, save articles for offline reading, and more.
 
+**🚧 Current Status**: 
+* HeadlineHub is currently under development. The features listed below are planned and may not all be implemented in the current version.
+
 **👀 Overview**
-
 HeadlineHub aims to provide users with a personalized and engaging news experience. 
-
 **🚀 Key Features**
 * **🔐 User Authentication:**
     * **Secure User Accounts:** Implement robust user authentication and registration features.
@@ -69,6 +68,10 @@ HeadlineHub aims to provide users with a personalized and engaging news experien
 * **🧪 Testing:** Implement comprehensive unit tests, widget tests, and integration tests to ensure code quality, stability, and prevent regressions.
 * **🤝 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
 * **Git:** Utilize Git for version control and follow best practices for branching and merging.
+
+**⚠️ Disclaimer**
+
+This app is currently under development and may contain bugs or have limited functionality.
 
 **📝 License**
 
