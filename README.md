@@ -21,7 +21,7 @@ The code is for evaluation only. Feel free to use it for 32 days. After that, an
 
 This license allows one developer to Use, Change, and Distribute as many times as they want, as long as they do not compete by providing the **source code itself** for a fee or at no cost.
 
-###  Do you need to purchase separate licenses for the HeadlineHub App, API, and Dashboard?
+### Do you need to purchase separate licenses for the HeadlineHub App, API, and Dashboard?
 No, a single license covers all three of them.
 
 ### Do you have another question?
