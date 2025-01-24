@@ -1,22 +1,22 @@
 # 📰 HeadlineHub - Developer Documentation 📰
 
-**🚀 A Flutter-based News Aggregator App**
+**🌍 HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines**
 
-This repository contains the source code for HeadlineHub, a news aggregator application built with Flutter. 
+HeadlineHub is a Flutter-based mobile application that delivers personalized news headlines. Users can customize their news feed based on their interests and preferences, receive real-time notifications for breaking news, save articles for offline reading, and more.
 
-**🚀 Overview**
+**👀 Overview**
 
 HeadlineHub aims to provide users with a personalized and engaging news experience. 
 
 **🚀 Key Features**
-* **👤 User Authentication:**
+* **🔐 User Authentication:**
     * **Secure User Accounts:** Implement robust user authentication and registration features.
     * **Social Login:** Integrate with popular social login providers like Google, Facebook, and Apple for convenient user onboarding.
     * **Password Security:** Implement strong password policies and security measures to protect user accounts.
-* **👤 User Profiles & Preferences:**
+* **🙍‍♂️ User Profiles & Preferences:**
     * **Personalized Settings:** Allow users to customize their app experience with personalized settings, such as preferred font sizes, reading themes (e.g., sepia tone), and notification preferences.
     * **Reading History:** Track user reading history to provide personalized recommendations and insights into their reading habits.
-    * **Content Preferences:** Allow users to fine-tune their preferences by specifying preferred authors, journalists, or publications.
+    * **Content Preferences:** Allow users to fine-tune their preferences by specifying preferred source, topic, or country.
     * **Mood-Based Filtering:** Enable users to filter news based on their current mood (e.g., "Uplifting," "Informative," "Serious").
     * **Content Sensitivity:** Allow users to adjust the level of content sensitivity, filtering out potentially offensive or disturbing content.
     * **Bookmarking & Organization:** Allow users to save their favorite articles for later reading and organize them into custom folders. 
