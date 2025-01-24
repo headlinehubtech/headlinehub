@@ -15,16 +15,16 @@ HeadlineHub app come with a [PolyForm-Free-Trial](https://polyformproject.org/li
 
 ### PolyForm-Free-Trial License summary
 
-The code is for evaluation only, feel free using it for 32 days, after that any type of usage is prohibited unless you get a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license
+The code is for evaluation only, feel free using it for 32 days, after that any type of usage is prohibited unless you buy a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license
 
 ### PolyForm-Perimeter License summary
 
 It allows one developer to Edit/build/publish whatever he want as many times as he want
 **as long as** he do not compete by providing this source code itself for free or for money. 
 
-### Do you need another license for the headlineHub api and dashboard?.
+### Do you to buy 3 licenses for the headlineHub App, Api and Dashboard?.
 
-NO, the same license cover the:
+NO, 1 license cover the:
 - [headlineHub app](https://github.com/headlinehub/app), 
 - [headlineHub api](https://github.com/headlinehub/api), 
 - [headlineHub dashboard](https://github.com/headlinehub/dashboard),
