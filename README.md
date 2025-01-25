@@ -5,7 +5,7 @@
 **🚧 Current Status**: 
 * HeadlineHub is currently under development. The features listed below are planned and may not all be implemented in the current version.
 
-**🚀 Key Features**
+**🚀 Features (Planned)**
 
 * **🔐 User Authentication:**
     * **Secure User Accounts:** Implement robust user authentication and registration features.
