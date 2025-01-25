@@ -1,6 +1,6 @@
-# 📰 HeadlineHub  📰
+# 📰🗞️💵 HeadlineHub 💵🗞️📰
 
-**🚀 Flutter-based mobile application that aims to provide users with a personalized and engaging news experience.**
+**💙 Flutter-based mobile application that aims to provide users with a personalized and engaging news experience.**
 
 **🚧 Current Status**: 
 * HeadlineHub is currently under development. The features listed below are planned and may not all be implemented in the current version.
@@ -63,7 +63,7 @@
     * **Implement ad-blocking measures:** Ensure a smooth user experience for all users.
 
 **🏗️ Architecture**
-* **Clean Architecture:** Adhere to clean architecture principles for separation of concerns, promoting maintainability and testability.
+* **🧹 Clean Architecture:** Adhere to clean architecture principles for separation of concerns, promoting maintainability and testability.
 * **🚦 State Management:** Utilize a suitable state management solution (BLoC) for effective and predictable data flow.
 * **💾 Data Persistence:** Implement data persistence mechanisms for offline reading, user preferences, and other relevant data.
 
@@ -74,7 +74,7 @@
 **🛠️ Development Guidelines**
 * **🎨 Coding Style:** Adhere to consistent coding style guidelines (Dart Style Guide) for better readability and maintainability.
 * **🧪 Testing:** Implement comprehensive unit tests, widget tests, and integration tests to ensure code quality, stability, and prevent regressions.
-* **🤝 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
+* **👀 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
 
 **⚠️ Disclaimer**
 
@@ -90,7 +90,7 @@ This evaluation license provides a 32-day period for comprehensive assessment an
 ### Understanding the PolyForm Perimeter License
 This license grants unlimited rights to utilize, modify, and distribute derivatives of the licensed source code, expressly prohibiting the distribution of the source code itself, whether for commercial gain or without charge.
 
-### Do I need separate licenses for the HeadlineHub app, dashboard and API?
+### Do I need separate licenses for the HeadlineHub dashboard and API?
 No, a single license covers all three.
 
 ---
