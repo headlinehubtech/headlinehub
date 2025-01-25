@@ -62,15 +62,16 @@
     * **Integrate with reputable ad networks:** Utilize well-known ad networks like AdMob, AdColony, and AppLovin.
     * **Implement ad-blocking measures:** Ensure a smooth user experience for all users.
 
-
 **🏗️ Architecture**
-
 * **Clean Architecture:** Adhere to clean architecture principles for separation of concerns, promoting maintainability and testability.
 * **🚦 State Management:** Utilize a suitable state management solution (BLoC) for effective and predictable data flow.
 * **💾 Data Persistence:** Implement data persistence mechanisms for offline reading, user preferences, and other relevant data.
 
-**🛠️ Development Guidelines**
+**🛠️ Technologies**
+* **💙 Flutter:** The framework used for building the user interface.
+* **🎯 Dart:** The programming language used for Flutter development.
 
+**🛠️ Development Guidelines**
 * **🎨 Coding Style:** Adhere to consistent coding style guidelines (Dart Style Guide) for better readability and maintainability.
 * **🧪 Testing:** Implement comprehensive unit tests, widget tests, and integration tests to ensure code quality, stability, and prevent regressions.
 * **🤝 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
