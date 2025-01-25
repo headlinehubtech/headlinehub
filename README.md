@@ -80,6 +80,8 @@
 
 This app is currently under development and may contain bugs or have limited functionality.
 
+## 📝 License
+
 HeadlineHub app offers a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license provided with the source code. Users can seamlessly upgrade to the robust [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license with a single, [one-time payment](https://github.com/sponsors/headlinehub).
 
 ### Understanding the PolyForm Free Trial License
