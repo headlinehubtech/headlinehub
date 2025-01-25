@@ -1,7 +1,5 @@
 # 📰 HeadlineHub  📰
 
-**👀 Overview**
-
 HeadlineHub aims to provide users with a personalized and engaging news experience. 
 
 **🚧 Current Status**: 
