@@ -89,7 +89,7 @@ HeadlineHub offers a [PolyForm-Free-Trial](https://polyformproject.org/licenses/
 This evaluation license grants **32 days** of use and modification to assess the code's functionality. Continued use beyond the evaluation period requires the [purchase](https://github.com/sponsors/headlinehub) of a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license.
 
 ### PolyForm-Perimeter License Overview
-This license permits **unlimited** use, modification, and distribution, provided that the source code itself is not distributed, whether for a fee or at no cost.
+This license grants unlimited rights to utilize, modify, and distribute derivatives of the licensed source code, expressly prohibiting the distribution of the source code itself, whether for commercial gain or without charge.
 
 ### Do I need separate licenses for the HeadlineHub App, API, and Dashboard?
 No, a single license covers all three.
