@@ -66,12 +66,12 @@ Flutter-based mobile application that aims to provide users with a personalized 
 **🏗️ Architecture**
 
 * **Clean Architecture:** Adhere to clean architecture principles for separation of concerns, promoting maintainability and testability.
-* **🚦 State Management:** Utilize a suitable state management solution (e.g., Provider, BLoC, Riverpod) for effective and predictable data flow.
+* **🚦 State Management:** Utilize a suitable state management solution (BLoC) for effective and predictable data flow.
 * **💾 Data Persistence:** Implement data persistence mechanisms for offline reading, user preferences, and other relevant data.
 
 **🛠️ Development Guidelines**
 
-* **🎨 Coding Style:** Adhere to consistent coding style guidelines (e.g., Dart Style Guide) for better readability and maintainability.
+* **🎨 Coding Style:** Adhere to consistent coding style guidelines (Dart Style Guide) for better readability and maintainability.
 * **🧪 Testing:** Implement comprehensive unit tests, widget tests, and integration tests to ensure code quality, stability, and prevent regressions.
 * **🤝 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
 
@@ -81,9 +81,10 @@ This app is currently under development and may contain bugs or have limited fun
 
 **📝 License**
 
-The HeadlineHub app includes a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license that can be upgraded to a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license with a [one-time payment](https://github.com/sponsors/headlinehub).
+HeadlineHub offers a [PolyForm-Free-Trial](https://polyformproject.org/licenses/free-trial/1.0.0/) license provided with the app. Users can seamlessly upgrade to the robust [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license with a single, [one-time payment](https://github.com/sponsors/headlinehub).
 
 ### PolyForm-Free-Trial License Overview
+
 This evaluation license grants **32 days** of use and modification to assess the code's functionality. Continued use beyond the evaluation period requires the [purchase](https://github.com/sponsors/headlinehub) of a [PolyForm-Perimeter](https://polyformproject.org/licenses/perimeter/1.0.1/) license.
 
 ### PolyForm-Perimeter License Overview
