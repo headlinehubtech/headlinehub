@@ -90,7 +90,7 @@ This evaluation license grants **32 days** of use and modification to assess the
 ### Understanding the PolyForm Perimeter License
 This license grants unlimited rights to utilize, modify, and distribute derivatives of the licensed source code, expressly prohibiting the distribution of the source code itself, whether for commercial gain or without charge.
 
-### Do I need separate licenses for the HeadlineHub App, API, and Dashboard?
+### Do I need separate licenses for the HeadlineHub app, dashboard and API ?
 No, a single license covers all three.
 
 ---
