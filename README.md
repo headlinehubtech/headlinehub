@@ -1,6 +1,6 @@
 # 📰 HeadlineHub  📰
 
-HeadlineHub aims to provide users with a personalized and engaging news experience. 
+HeadlineHub is a Flutter-based mobile application that aims to provide users with a personalized and engaging news experience. 
 
 **🚧 Current Status**: 
 * HeadlineHub is currently under development. The features listed below are planned and may not all be implemented in the current version.
