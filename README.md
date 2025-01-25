@@ -2,8 +2,6 @@
 
 **🚀 Flutter-based mobile application that aims to provide users with a personalized and engaging news experience.**
 
-This repository contains the source code for the HeadlineHub app, a Flutter mobile application thatprovide users with a personalized and engaging news experience.
-
 **🚧 Current Status**: 
 * HeadlineHub is currently under development. The features listed below are planned and may not all be implemented in the current version.
 
