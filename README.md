@@ -21,7 +21,7 @@
     * **Bookmarking & Organization:** Allow users to save their favorite articles for later reading and organize them into custom folders. 
 
 * **🌐 Multiple News Sources:**
-    * **Integrate with various reputable news APIs:** Leverage news APIs like News API, Google News API, and RSS feeds to access a diverse range of news sources.
+    * **Integrate with various reputable news APIs:** Leverage news APIs like News API, Google News API, and more to access a diverse range of news sources.
     * **Display headlines from a diverse range of sources:** Offer users a wide range of news sources, including international news outlets, local publications, and niche publications.
 
 * **🤔 Personalized News Feeds:**
