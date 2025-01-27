@@ -1,4 +1,4 @@
-# 📰🗞️💵 HeadlineHub 💵🗞️📰
+# 📰🗞️ HeadlineHub 🗞️📰
 
 **💙 Flutter-based mobile application that aims to provide users with a personalized and engaging news experience.**
 
