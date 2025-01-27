@@ -41,7 +41,7 @@
     * **Keyword Search:** Quickly find news articles related to specific keywords or phrases.
     * **Advanced Search Filters:** Refine search results by date, source, and other criteria for a more targeted news experience.
 
-* **🚀 Accessibility:**
+* **♿ Accessibility:**
     * **Screen Reader Compatibility:** Ensure the app is fully accessible to users with visual impairments.
     * **Large Text Mode:** Adjust text size for optimal readability.
     * **High Contrast Mode:** Enhance visibility for users with low vision.
@@ -67,11 +67,11 @@
 * **🚦 State Management:** Utilize a suitable state management solution (BLoC) for effective and predictable data flow.
 * **💾 Data Persistence:** Implement data persistence mechanisms for offline reading, user preferences, and other relevant data.
 
-**🛠️ Technologies**
+**🦾 Technologies**
 * **💙 Flutter:** The framework used for building the user interface.
 * **🎯 Dart:** The programming language used for Flutter development.
 
-**🛠️ Development Guidelines**
+**📜 Development Guidelines**
 * **🎨 Coding Style:** Adhere to consistent coding style guidelines (Dart Style Guide) for better readability and maintainability.
 * **🧪 Testing:** Implement comprehensive unit tests, widget tests, and integration tests to ensure code quality, stability, and prevent regressions.
 * **👀 Code Reviews:** Conduct regular code reviews to ensure code quality, identify potential issues, and promote knowledge sharing among developers.
